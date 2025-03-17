@@ -23,11 +23,6 @@ This project analyses a suspicious email received on **15th August 2024** with t
 - **tools/**: Lists the tools used for the analysis.
 - **screenshots/**: Contains screenshots of analysis results from tools like AbuseIPDB, VirusTotal, and MX Toolbox.
 
-## How to Use This Repository
-1. Clone the repository: `git clone https://github.com/your-username/Email-Header-Analysis-Report.git`
-2. Navigate to the `report/` folder to view the full analysis report.
-3. Check the `data/` folder for raw data used in the analysis.
-4. Refer to the `tools/` folder for a list of tools used.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
